@@ -5,4 +5,4 @@ Gustavo Ramos
 
 Here are some ideas to get you started:
 
-![.]https://media1.tenor.com/m/HOTw3s-BsWMAAAAC/leo-lionel.gif
+![](https://media1.tenor.com/m/HOTw3s-BsWMAAAAC/leo-lionel.gif)
